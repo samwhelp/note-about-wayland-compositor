@@ -49,6 +49,59 @@ has_children: false
 
 
 
+## Wayland Compositor
+
+* [hyprland](#hyprland)
+* [zoolander](#zoolander)
+* [cutefish-compositor](#cutefish-compositor)
+* [pomelo-compositor](#pomelo-compositor)
+* [woodland](#woodland)
+
+
+### hyprland
+
+| Link |
+| ---- |
+| [Hyprland](https://hypr.land/) |
+| GitHub / [Hyprland](https://github.com/hyprwm/Hyprland) |
+
+
+### zoolander
+
+| Link |
+| ---- |
+| [Zoolander](https://docs.otter-shell.org/zoolander/overview) |
+| Gitea / [zoolander](https://git.pika-os.com/otter-shell/zoolander) |
+| Gitea / [zooland](https://git.pika-os.com/otter-shell/zooland) |
+| Gitea / [otr](https://git.pika-os.com/general-packages/otr) |
+| Gitea / [zoolander-settings](https://git.pika-os.com/otter-shell/zoolander-settings) |
+| Gitea / [otter-shell](https://git.pika-os.com/otter-shell) |
+
+
+### cutefish-compositor
+
+| Link |
+| ---- |
+| GitHub / [cutefish-compositor](https://github.com/cutefishos/cutefish-compositor) |
+| [Cutefish](https://cutefish.org/) |
+
+
+### pomelo-compositor
+
+| Link |
+| ---- |
+| [pomelo-compositor](https://pomelo.fedora.tw/en/download) |
+
+
+### woodland
+
+| Link |
+| ---- |
+| GitHub / [woodland](https://github.com/DiogenesN/woodland) |
+
+
+
+
 ## Just the Docs
 
 | Link | GitHub |
