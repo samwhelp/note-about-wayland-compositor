@@ -54,6 +54,7 @@ has_children: false
 * [hyprland](#hyprland)
 * [mangowm](#mangowm)
 * [niri](#niri)
+* [riverwm](#riverwm)
 * [zoolander](#zoolander)
 * [cutefish-compositor](#cutefish-compositor)
 * [pomelo-compositor](#pomelo-compositor)
@@ -84,6 +85,17 @@ has_children: false
 | ---- |
 | [niri](https://niri-wm.github.io/niri/) |
 | GitHub / [niri](https://github.com/niri-wm/niri) |
+
+
+### riverwm
+
+| Link |
+| ---- |
+| [River](https://isaacfreund.com/software/river/) |
+| CodeBerg / [river](https://codeberg.org/river/river) |
+| GitHub / [river](https://github.com/riverwm/river) |
+| CodeBerg / [river-classic](https://codeberg.org/river/river-classic) |
+| GitHub / [river-classic](https://github.com/riverwm/river-classic) |
 
 
 ### zoolander
