@@ -52,6 +52,7 @@ has_children: false
 ## Wayland Compositor
 
 * [hyprland](#hyprland)
+* [mangowm](#mangowm)
 * [zoolander](#zoolander)
 * [cutefish-compositor](#cutefish-compositor)
 * [pomelo-compositor](#pomelo-compositor)
@@ -65,6 +66,15 @@ has_children: false
 | ---- |
 | [Hyprland](https://hypr.land/) |
 | GitHub / [Hyprland](https://github.com/hyprwm/Hyprland) |
+
+
+### mangowm
+
+| Link |
+| ---- |
+| [mangowm](https://mangowm.github.io/) |
+| GitHub / [mango](https://github.com/mangowm/mango) |
+| GitHub / [mango-config](https://github.com/DreamMaoMao/mango-config) |
 
 
 ### zoolander
