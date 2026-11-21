@@ -53,6 +53,7 @@ has_children: false
 
 * [hyprland](#hyprland)
 * [mangowm](#mangowm)
+* [niri](#niri)
 * [zoolander](#zoolander)
 * [cutefish-compositor](#cutefish-compositor)
 * [pomelo-compositor](#pomelo-compositor)
@@ -75,6 +76,14 @@ has_children: false
 | [mangowm](https://mangowm.github.io/) |
 | GitHub / [mango](https://github.com/mangowm/mango) |
 | GitHub / [mango-config](https://github.com/DreamMaoMao/mango-config) |
+
+
+### niri
+
+| Link |
+| ---- |
+| [niri](https://niri-wm.github.io/niri/) |
+| GitHub / [niri](https://github.com/niri-wm/niri) |
 
 
 ### zoolander
