@@ -56,6 +56,7 @@ has_children: false
 * [cutefish-compositor](#cutefish-compositor)
 * [pomelo-compositor](#pomelo-compositor)
 * [woodland](#woodland)
+* [umbriel](#umbriel)
 
 
 ### hyprland
@@ -98,6 +99,14 @@ has_children: false
 | Link |
 | ---- |
 | GitHub / [woodland](https://github.com/DiogenesN/woodland) |
+
+
+### umbriel
+
+| Link |
+| ---- |
+| [Umbriel](https://docs.noctalia.dev/umbriel/) |
+| GitHub / [umbriel](https://github.com/DiogenesN/woodland) |
 
 
 
