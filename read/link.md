@@ -49,6 +49,20 @@ has_children: false
 
 
 
+## Library
+
+* [scenefx](#scenefx)
+
+
+### scenefx
+
+| scenefx |
+| ------- |
+| GitHub / [scenefx](https://github.com/wlrfx/scenefx) |
+
+
+
+
 ## Wayland Compositor
 
 * [hyprland](#hyprland)
